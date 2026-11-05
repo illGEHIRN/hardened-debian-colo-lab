@@ -1,0 +1,6 @@
+*.qcow2
+*.iso
+*.img
+*.key
+*.jwk
+secrets/
